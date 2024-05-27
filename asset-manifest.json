@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/pw-coverage/static/js/main.75cb0f0e.js",
+    "main.js": "/pw-coverage/static/js/main.8e662c55.js",
     "index.html": "/pw-coverage/index.html",
-    "main.75cb0f0e.js.map": "/pw-coverage/static/js/main.75cb0f0e.js.map"
+    "main.8e662c55.js.map": "/pw-coverage/static/js/main.8e662c55.js.map"
   },
   "entrypoints": [
-    "static/js/main.75cb0f0e.js"
+    "static/js/main.8e662c55.js"
   ]
 }
